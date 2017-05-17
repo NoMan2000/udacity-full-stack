@@ -9,6 +9,6 @@ Complete the Movie Trailer Website project.
 What I will probably add.  There will probably be a lot of discussion about how Python works.  There should be a longer discussion on some of the basics of programming like:
 
 * Exceptions/Error Handling
-* 
-
+* DataTypes (Tuples, sets, dictionaries)
+* Mutability (is vs. ==)
 
