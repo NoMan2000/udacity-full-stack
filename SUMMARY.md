@@ -7,5 +7,5 @@
 
 ## Schedule
 
-* test
+* [test](schedule/test.md)
 
