@@ -38,7 +38,9 @@ The style guide follows `PEP-8`, a common Python styling guide.
 
 The function `primes` has a default argument, `n=1`.  The `while(True)` creates an infinite loop.  If this isn't exited via a `break` statement, it will execute forever and crash the Python interpreter.
 
-The function `isprime` takes an argument of `n`, used to denote number.  If the number is 1, it returns false.  The `for in range` loop generates a range of numbers, the min number on the left hand side and the max number on the right hand side.  The value of x on each iteration of the loop will be the next number in the range.  
+The `n +=1` means "Take the current value of n and add one to it.".  You will see the post-increment operator in several other languages look like this `++` and has the same meaning.
+
+The function `isprime` takes an argument of `n`, used to denote number.  If the number is 1, it returns false.  The `for in range` loop generates a range of numbers, the min number on the left hand side and the max number on the right hand side.  The value of x on each iteration of the loop will be the next number in the range.
 
 ```
 for x in range(2, 5):
