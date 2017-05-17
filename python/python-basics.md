@@ -52,3 +52,5 @@ for x in range(2, 5):
 
 The `%` operator means "modulus" and it's used when dividing integers to see if there is a remainder.  If a value can divide into the prime number and not leave a remainder, then it is not a prime number.
 
+Python is a whitespace sensitive language.  By convention, Python is indented four lines per statement to show that the statements are grouped.  It can be three, two, or even one, but it must be consistent.  Mixing indentation styles will cause a compilation error.
+
