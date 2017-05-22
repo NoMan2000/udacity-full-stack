@@ -6,5 +6,5 @@ Begin the lessons in The Backend: Databases & Applications with:
 * Elements of SQL
 * Python Database API
 
-
+My notes:  Download [Postico](https://eggerapps.at/postico/) and go over setting up Vagrant file.
 
