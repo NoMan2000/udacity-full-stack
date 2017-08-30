@@ -12,6 +12,8 @@
 * [schedule/week-6-jul-29.md](schedule/week-6-jul-29.md)
 * [schedule/week-7-aug-5.md](schedule/week-7-aug-5.md)
 * [schedule/week-8-aug-12.md](schedule/week-8-aug-12.md)
-
-
+* [schedule/week-9-aug-19](scheduleweek-9-aug-19.md)
+* [schedule/week-10-aug-26](schedule/week-10-aug-26.md)
+* [schedule/week-11-sep-9](scheduleweek-11-sep-9.md)
+* [schedule/week-12-sep-16](scheduleweek-12-sep-16.md)
 
